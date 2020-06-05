@@ -46,10 +46,16 @@ Keep it Simple and clean, that will improve your project readability.<br>
 Is one important file, make use of it to tell **git** what files to ignore during ```git add .```  and ```git commit```.<br>
 Add files that might contain your personl info e.g IP address, API Keys, or just any files that you would not like the public to see.
 <br>
+
 ---
 **Bonus**
-If you have any ML questions, post Under **Issues** use the Tag: **How-To**<br>
-and I will be happy to help you search. Also if you have Interesting Sources, just Open an Issue with tag: **hot-source** and Explain what you found interesting and share the the source. **Lets Grow this Tamplate Project**<br>
+
+> Click the **Watch** of this repo to get the latest Hot-Tricks and Hacks.<br>
+> Clik **star**  if you like the Idea of growing this tamplate for our future projects.
+
+- If you have any ML questions, post Under **Issues** use the Tag: **How-To**<br>
+and I will be happy to help you search (**The rise of Git-stackOverflow**). 
+- Also if you have Interesting Sources, just Open an Issue with tag: **hot-source** and Explain what you found interesting and share the the source. **Lets Grow this Tamplate Project**<br>
 
 ---
 
