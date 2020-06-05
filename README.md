@@ -35,7 +35,7 @@ Let me Walk you through, shall we?
 ## Repo File Structure
 Keep it Simple and clean, that will improve your project readability.<br>
 **Let us Sort our Files**
-1. **Data** --> Store your raw and preprocessed data here. if your csv or data file is less than 100MB (**Github's Current file size Limit**) else try **git-LFS**
+1. **Data** --> Store your raw and preprocessed data here. if your csv or data file is less than **100MB** (**Github's Current file size Limit**) else try **git-LFS**
 2. **NoteBooks** --> Store All your Notebooks here. **Naming** is important for later use!, I will provide a detailed NoteBook, feel free to delete or make changes.
 3. **Scripts** --> During Model Experiments, I find it best to complile my training script and run multimple model and go chill outside or take a walk. Let the Computer do its Job(**automated runs**). I will leave an example scripts to hypertune parameters and Cross validation.
 4. **Output** --> All my scripts generates outputs, so I store results {model results, model-plots, model.pkl for later use}. I will  train few models using sample_train.py and save its **feature Impotance plot**, **model_crossval_score.csv** and the **model.pkl** along with the **train.csv and test.csv** . Just so you can be able to reproduce your runs if required.
@@ -45,6 +45,13 @@ Keep it Simple and clean, that will improve your project readability.<br>
 **.gitignore**
 Is one important file, make use of it to tell **git** what files to ignore during ```git add .```  and ```git commit```.<br>
 Add files that might contain your personl info e.g IP address, API Keys, or just any files that you would not like the public to see.
+<br>
+---
+**Bonus**
+If you have any ML questions, post Under **Issues** use the Tag: **How-To**<br>
+and I will be happy to help you search. Also if you have Interesting Sources, just Open an Issue with tag: **hot-source** and Explain what you found interesting and share the the source. **Lets Grow this Tamplate Project**<br>
+
+---
 
 *All the Best with your New Project!*
 ---
