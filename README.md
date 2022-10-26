@@ -3,6 +3,7 @@
 ![](https://www.researchgate.net/publication/329266618/figure/fig1/AS:698144849399809@1543462111704/ML-lifecycle-adapted-from-Miao-et-al-6.png)<br>
 image source: *www.researchgate.net/figure/ML-lifecycle-adapted-from-Miao-et-al-6_fig1_329266618* <br>
 ## Description
+
 This repo serves as a machine learning template repository.<br>
 Anyone is allowed to fork and manipulate according to their project structure.<br>
 If you are New to Machine Learning or Github, then this is the best getting started repository for your project.<br>
